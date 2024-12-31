@@ -1,4 +1,0 @@
- class AppTexts{
-  const AppTexts();
-  static const startText = "🎮 Salom! Kinoya App botiga xush kelibsiz! \n\nBu yerda siz Windows va Android uchun eng so'nggi o'yinlar va dasturlarni osongina yuklab olishingiz mumkin. 📲💻\n\n🔹 Yangi narsalarni kashf eting! \n🔹 Eng mashhur dasturlarni yuklab oling! \n🔹 Hammasi bir joyda va qulay! \n\nBoshlash uchun kerakli bo'limni tanlang: \n👉 *Windows uchun* - O'yinlar va dasturlar \n👉 *Android uchun* - O'yinlar va dasturlar \n\n📥 Yuklab olishni boshlash uchun menyudan foydalaning. Agar savollaringiz bo'lsa, yordamga murojaat qiling! \n\nKinoya App bilan yangi imkoniyatlarni kashf qiling! 🚀";
-}
